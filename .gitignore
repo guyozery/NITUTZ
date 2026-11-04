@@ -1,0 +1,24 @@
+# Course materials: stay local, not ours to publish
+/364114110120271_*
+/הנחיות חלק א.htm
+/פרויקט לדוגמה/
+
+# Personal or organization data: ID numbers, raw interviews, submission files with IDs
+/private/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Personal Claude Code settings
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS and editors
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
+.vscode/
+.idea/
